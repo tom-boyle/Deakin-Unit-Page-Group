@@ -17,13 +17,9 @@ p {
   font-family: Arial;
 }
 
-div {
-  background-color: blue;
-  text-align: right;
-}
 
 div {
-  background-color: darkcyan;
+  background-color: blue;
   text-align: right;
 }
 
